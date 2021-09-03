@@ -1,5 +1,5 @@
 import java.util.Scanner ;
-public class Raj_pattern
+public class Raj
 {
     public static void main(String[] args) {
         Scanner scan= new Scanner(System.in);
